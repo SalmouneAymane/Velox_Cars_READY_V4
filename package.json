@@ -1,0 +1,7 @@
+{
+  "name": "velox-cars-production",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {"start":"node server.js"},
+  "description":"Velox Cars production client + admin + Supabase integration"
+}
